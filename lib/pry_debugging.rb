@@ -1,5 +1,5 @@
 def plus_two(num)
-	sum = num + 2
-	return sum
+	num + 2
+	parse_sub(num)
 	binding.pry
 end
